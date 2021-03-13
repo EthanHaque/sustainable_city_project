@@ -2,4 +2,4 @@
 Final project for Advanced Biological Systems.
 <br>
 <br>
-(Visit the site.)[https://github.com/EthanHaque/sustainable_city_project.git]
+[Visit the site.](https://ethanhaque.github.io/sustainable_city_project/)
